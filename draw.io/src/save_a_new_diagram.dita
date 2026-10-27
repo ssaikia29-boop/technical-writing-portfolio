@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="save_a_new_diagram">
+    <title>Save a new diagram</title>
+    <taskbody>
+        <context>
+            <p>To save a new diagram or save an existing diagram with a different name or
+                location:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the draw.io editor, click <b>File</b>.</cmd>
+            </step>
+            <step>
+                <cmd>On the menu, click <b>Save as</b>.</cmd>
+            </step>
+            <step>
+                <cmd>In the dialog box that appears, enter the file name.</cmd>
+            </step>
+            <step>
+                <cmd>Select the required storage location.</cmd>
+            </step>
+            <step>
+                <cmd>Click<b>Save</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_otl_z3l_wkc">The selected location stores new diagram with the
+            changes.</result>
+    </taskbody>
+</task>

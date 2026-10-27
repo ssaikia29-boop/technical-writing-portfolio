@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="align_shapes">
+    <title>Align shapes</title>
+    <taskbody>
+        <prereq id="prereq_cvf_bz3_vkc">
+            <p>To perform this task, you must select at least two shapes on the canvas.</p>
+        </prereq>
+        <context>
+            <p>Alignment is used to line up two or more selected objects relative to one
+                another.</p>
+            <p>The following table lists the alignment options available in draw.io.:</p>
+            <p><simpletable frame="all" relcolwidth="1.0* 4.25*" id="simpletable_tcj_bv3_vkc">
+                    <sthead>
+                        <stentry>
+                            <p><b>Option</b></p>
+                        </stentry>
+                        <stentry>
+                            <p><b>Aligns the selected objects with the</b></p>
+                        </stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>
+                            <p>Left Align</p>
+                        </stentry>
+                        <stentry>
+                            <p>left edge of the leftmost selected object.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Center</p>
+                        </stentry>
+                        <stentry>
+                            <p>horizontal center of the selection</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Right Align</p>
+                        </stentry>
+                        <stentry>
+                            <p>top edge of the right edge of the rightmost shape.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Top Align</p>
+                        </stentry>
+                        <stentry>
+                            <p>bottom edge of the top edge of the uppermost shape.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Middle</p>
+                        </stentry>
+                        <stentry>
+                            <p>with the vertical center of the selection.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Bottom Align</p>
+                        </stentry>
+                        <stentry>
+                            <p>bottom edge of the lowest shape.</p>
+                        </stentry>
+                    </strow>
+                </simpletable>To align shapes:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the canvas, select the shapes that you want to align. </cmd>
+            </step>
+            <step>
+                <cmd>On the menu bar, click <b>Arrange</b>.</cmd>
+            </step>
+            <step>
+                <cmd>On the <b>Arrange</b> menu, click the alignment option that you want.</cmd>
+            </step>
+        </steps>
+        <result id="result_tym_h1j_vkc">
+            <p>The selected shapes align according to the option that you chose.</p>
+        </result>
+    </taskbody>
+</task>

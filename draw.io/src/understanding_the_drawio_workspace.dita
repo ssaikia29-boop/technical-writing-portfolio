@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="understanding_the_workspace_0">
+    <title>Understanding the draw.io editor</title>
+    <conbody>
+        <p>
+            <fig id="fig_wtr_zjm_wkc">
+                <image href="../../../Downloads/drawio_UI_.drawio.png" id="image_xtr_zjm_wkc"/>
+            </fig>
+        </p>
+                                            <fig>
+                                                <title>Figure: draw.io editor</title>
+                                            </fig>
+        <p>The draw.io editor consists of the following areas:</p>
+        <ul id="ul_wsf_5qb_vkc">
+            <li><b>Menu bar</b>. Provides access to file management commands, such as File and Edit,
+                and editor commands, such as View, Arrange, Extras, and Help.</li>
+            <li><b>Toolbar</b>. Provides quick access to commonly used commands, such as Zoom, Undo,
+                Redo, Delete, Fill Color, and Connection.</li>
+            <li><b>Left panel</b>. Provides shapes and other diagram elements that you can add to
+                the canvas, such as circles, squares, diamonds, curves, and callouts.</li>
+            <li><b>Canvas</b>. Provides the workspace where you create and edit diagrams.</li>
+            <li><b>Right panel</b>. Provides options for managing the canvas view and formatting
+                diagram elements, including grid and page settings and shape formatting.</li>
+        </ul>
+    </conbody>
+</concept>

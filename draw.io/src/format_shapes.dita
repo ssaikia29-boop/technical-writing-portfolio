@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qtr_55h_vkc">
+    <title>Format shapes</title>
+    <taskbody>
+        <context>
+            <p>You can format shapes to change their appearance and make the diagram easier to
+                read.</p>
+            <p>To format a shape:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the canvas, select the shape that you want to format. </cmd>
+            </step>
+            <step>
+                <cmd>In the right panel, click the <b>Style</b> tab.</cmd>
+            </step>
+            <step>
+                <cmd>If required, change the shape's fill color, line color, or line style.</cmd>
+            </step>
+            <step>
+                <cmd>If required, click the <b>Text</b> tab to change the font, text size,
+                    alignment, or text color.</cmd>
+            </step>
+            <step>
+                <cmd>If required,  click the <b>Arrange</b> tab to change the shape's position,
+                    size, or rotation.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 1-5 for other shapes as needed.</cmd>
+            </step>
+        </steps>
+        <result id="result_fgh_2n3_vkc">
+            <p>The changes appear on the shape as you make them.</p>
+        </result>
+    </taskbody>
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="resize_a_shape">
+    <title>Resize a shape</title>
+    <taskbody>
+        <context>
+            <p>You can resize a shape to make it larger or smaller in the diagram.</p>
+            <p>To resize a shape:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the canvas, select the shape that you want to resize.</cmd>
+            </step>
+            <step>
+                <cmd>Drag a sizing handle outward to enlarge the shape or inward to reduce the
+                    shape. </cmd>
+            </step>
+        </steps>
+        <result id="result_l1b_b5h_vkc">
+            <p>The shape becomes larger or smaller, depending on the direction that you drag the
+                handle.</p>
+        </result>
+    </taskbody>
+</task>

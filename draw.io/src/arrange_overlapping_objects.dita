@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="arrange_overlapping_objects">
+    <title>Arrange overlapping objects</title>
+    <taskbody>
+        <context>
+            <p>When objects overlap, you can change their order to control which objects appear in
+                front of or behind other objects. </p>
+            <p>The arrangement options are<simpletable frame="all" relcolwidth="1* 1*"
+                    id="simpletable_df4_fjk_wkc">
+                    <strow>
+                        <stentry>
+                            <p><b>Arrangement</b></p>
+                        </stentry>
+                        <stentry>
+                            <p><b>Moves the selected object</b>
+                            </p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>To Front</p>
+                        </stentry>
+                        <stentry>
+                            <p>to the front of all other objects.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>To Back</p>
+                        </stentry>
+                        <stentry>
+                            <p>to the back of all other objects.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Bring Forward</p>
+                        </stentry>
+                        <stentry>
+                            <p>one level forward in the stacking order.</p>
+                        </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>
+                            <p>Send Backward</p>
+                        </stentry>
+                        <stentry>
+                            <p>one level backward in the stacking order.</p>
+                        </stentry>
+                    </strow>
+                </simpletable>To arrange objects:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the canvas, select the required object.</cmd>
+            </step>
+            <step>
+                <cmd>On the menu bar, click <b>Arrange</b>.</cmd>
+            </step>
+            <step>
+                <cmd>From the submenu, select the required arrangement type. For example: <b>To
+                        Back</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

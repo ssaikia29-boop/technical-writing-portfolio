@@ -1,0 +1,11 @@
+.copyright-page {
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.copyright-page .copyright-statement {
+  margin-top: auto;
+  text-align: center;
+  font-size: 1pt;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="move_a_shape">
+    <title>Move a shape</title>
+    <taskbody>
+        <context>
+            <p>You can move a shape on the canvas to change its position within the diagram.</p>
+            <p>To move a shape:</p>
+            <ul id="ul_tdt_mwg_vkc">
+                <li>On the canvas, select and drag the required shape to the desired location.</li>
+            </ul>
+        </context>
+        <result id="result_u4p_gxg_vkc">
+            <p>The shape moves to the new location. Any connectors attached to the shape stay
+                connected.</p>
+        </result>
+    </taskbody>
+</task>

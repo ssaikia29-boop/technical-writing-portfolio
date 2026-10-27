@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ygl_frb_vkc">
+    <title>Select shapes for a diagram</title>
+    <taskbody>
+        <context>
+            <p>Shapes are graphical elements that you can add to a diagram to represent objects,
+                processes, or other information. Whether you are working with a template or a blank
+                canvas, you can add shapes to your diagram.</p>
+            <p>draw.io provides a variety of shapes, including basic shapes such as Square,
+                Rectangle, and Circles, as well as more specialized shapes such as Callouts, 8 Point
+                Stars, and Polylines.</p>
+            <p>To add a shape:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the left panel, if the shape category that contains the shape isn't
+                    expanded, click the category name. For example: General.</cmd>
+            </step>
+            <step>
+                <cmd>Click the required shape.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 1 and 2 to add more shapes.</cmd>
+            </step>
+        </steps>
+        <result id="result_fmf_4yb_vkc">The selected shapes are added to the canvas.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="open_draw_io_0">
+    <title>Open draw.io</title>
+    <taskbody>
+        <prereq id="prereq_t5h_jj1_vkc">
+            <p>Ensure you have an internet connection and a supported web browser.</p>
+        </prereq>
+        <context>
+            <p>To get started, open the draw.io in the browser.</p>
+            <p>To  open draw.io:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open a web browser.</cmd>
+            </step>
+            <step>
+                <cmd>In the address bar, enter <xref href="https://app.diagrams.net/" format="html"
+                        scope="external"/>.</cmd>
+            </step>
+            <step>
+                <cmd>On your keyboard, press <b>Enter</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_wgd_gq1_vkc">
+            <p>The draw.io editor opens with a blank canvas.</p>
+        </result>
+    </taskbody>
+</task>

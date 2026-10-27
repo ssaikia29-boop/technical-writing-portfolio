@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="export_a_diagram">
+    <title>Export a diagram</title>
+    <taskbody>
+        <context>
+            <p>When you export a file in draw.io, it is saved as a non-editable format. You can use
+                this format when you want to share, publish, embed, or use the diagram
+                elsewhere.</p>
+            <p>To export a file:</p>
+        </context>
+        <steps id="steps_hwq_pjl_wkc">
+            <step>
+                <cmd>On the draw.io editor, click<b> File</b>.</cmd>
+            </step>
+            <step>
+                <cmd>On the menu, click <b>Export as</b>.</cmd>
+            </step>
+            <step>
+                <cmd>On the submenu, click the format you want to export the file in.</cmd>
+            </step>
+            <step>
+                <cmd>In the <b>Image</b> dialog box, make the necessary changes.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Export</b>.</cmd>
+            </step>
+            <step>
+                <cmd>In the dialog box that appears,  do the following:</cmd>
+                <substeps id="substeps_yy3_qml_wkc">
+                    <substep>
+                        <cmd>Next to Save as, enter the file name.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Next to Where, click the dropdown to select the location to want the
+                            file to be exported in.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <result id="result_fnj_tll_wkc">The exported file is saved in the provided
+            location.</result>
+    </taskbody>
+</task>

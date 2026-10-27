@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference">
+    <title>Reference</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <example>
+            <p>The official draw.io documentation was consulted as a reference during the
+                preparation of this guide.</p>
+            <ul id="ul_awb_lyp_1lc">
+                <li>
+                    <p>draw.io documentation: <xref href="https://www.drawio.com/docs/"
+                            format="html" scope="external"/></p>
+                </li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

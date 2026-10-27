@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="connect_shapes">
+    <title>Connect shapes</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>After adding shapes to the canvas, connect them to show the relationship or flow between
+            them. After you add shapes to the canvas, connect them to show the relationship or flow
+            between them. You can connect shapes that are already on the canvas, or add a new shape
+            and connect it to an existing one. In both cases, you use the blue directional arrows
+            that appear when you point to a shape.</p>
+        <p>
+            <ul id="ul_vbb_byc_vkc">
+                <li> To connect existing shapes see, <xref href="Connect%20shapes.dita"/>.</li>
+                <li>To connect a new shape, see <xref href="connect_a_new_shape.dita"/>.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

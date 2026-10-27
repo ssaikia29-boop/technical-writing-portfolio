@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>draw.io User Guide</title>
+    <topicref href="copyright_statement.dita"/>
+    <topicref href="introduction_0.dita"/>
+    <topicref href="open_draw_io_0.dita"/>
+    <topicref href="understanding_the_workspace_0.dita"/>
+    <topicref href="understanding_the_workspace.dita"/>
+    <topicref href="Select%20shapes%20for%20a%20diagram.dita"/>
+    <topicref href="Add%20test%20to%20a%20shape.dita"/>
+    <topicref href="connect_shapes.dita">
+        <topicref href="Connect%20shapes.dita"/>
+        <topicref href="connect_a_new_shape.dita"/>
+    </topicref>
+    <topicref href="move_a_shape.dita"/>
+    <topicref href="resize_a_shape.dita"/>
+    <topicref href="Format%20shapes.dita"/>
+    <topicref href="Duplicating%20shapes%20and%20connectors.dita"/>
+    <topicref href="align_shapes.dita"/>
+    <topicref href="arrange_overlapping_objects.dita"/>
+    <topicref href="save_a_diagram_0.dita">
+        <topicref href="save_a_diagram.dita"/>
+        <topicref href="save_a_new_diagram.dita"/>
+    </topicref>
+    <topicref href="export_a_diagram.dita"/>
+    <topicref href="frequently_asked_questions.dita"/>
+    <topicref href="reference.dita"/>
+</map>

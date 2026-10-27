@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wzp_yn3_vkc">
+    <title>Duplicating objects</title>
+    <taskbody>
+        <context>
+            <p dir="ltr">Duplicating creates a copy of the shapes and connectors that you select,
+                with the same size and formatting, so you can reuse them without redrawing.</p>
+            <p>To duplicate a shape or connector:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the canvas, click the shape or connector that you want to duplicate. .</cmd>
+            </step>
+            <step>
+                <cmd>Press Ctrl+D (Windows) or Command+D (macOS)..</cmd>
+            </step>
+        </steps>
+        <result id="result_f14_hp3_vkc">
+            <p>A copy of the selected shapes or connectors appears on the canvas. Drag the copy to
+                the position that you want.</p>
+        </result>
+    </taskbody>
+</task>

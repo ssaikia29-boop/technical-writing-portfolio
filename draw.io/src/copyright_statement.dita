@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="copyright_statement" outputclass="copyright-page">
+    <title>Copyright statement</title>
+    <body>
+        <p outputclass="copyright-statement">Copyright © 2026 Shaheen Saikia. All rights reserved.</p>
+        <p outputclass="copyright-statement">This guide was created for educational and portfolio purposes. draw.io is a product of
+            its respective owner. All trademarks and product names belong to their respective
+            owners.</p>
+    </body>
+</topic>

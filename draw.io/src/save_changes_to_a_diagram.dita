@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="save_a_diagram">
+    <title>Save changes to a diagram</title>
+    <taskbody>
+        <context>
+            <p>To save changes to an existing diagram:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the draw.io editor, click <b>File</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click<b>Save</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_drj_n3l_wkc">
+            <p>The selected location stores the diagram with the changes.</p>
+        </result>
+    </taskbody>
+</task>

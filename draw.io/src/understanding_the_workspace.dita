@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="understanding_the_workspace">
+    <title>Select a template</title>
+    <taskbody>
+        <context>
+            <p>Templates are predesigned diagrams that provide a starting layout for different types
+                of diagrams. draw.io provides a variety of templates. You can also select a blank
+                diagram to create a diagram from scratch.</p>
+            <p>When you select a template, you can enter a name for the diagram. The diagram is
+                saved in the draw.io XML format by default. This is the editable format that you can
+                use to continue editing the diagram in draw.io.</p>
+            <p>To select a template:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the draw.io editor, click <b>File</b> in the upper-left corner.</cmd>
+            </step>
+            <step>
+                <cmd>From the menu, select <b>New</b>.</cmd>
+            </step>
+            <step>
+                <cmd>In the dialog box, do one of the following:</cmd>
+                <info>
+                    <ul id="ul_odp_1pb_vkc">
+                        <li>To create a diagram from scratch, click <b>Blank Diagram</b>.</li>
+                        <li>To use a template, select the required template. For example, select
+                            Flowchart.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Next to <b>Diagram Name</b>, enter the name of the diagram.</cmd>
+            </step>
+        </steps>
+        <result id="result_mnv_vpb_vkc">The draw.io editor opens with the selected template. If you
+            entered a diagram name, the name appears in the upper-left corner of the
+            canvas.</result>
+    </taskbody>
+</task>

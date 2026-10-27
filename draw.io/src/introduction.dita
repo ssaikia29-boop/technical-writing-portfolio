@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_0">
+    <title>Introduction</title>
+    <conbody>
+        <section id="section_mb2_v4d_tkc">
+            <title>About draw.io</title>
+            <p>draw.io (also known as diagrams.net) in a diagramming tool. It is available as a web
+                application and a desktop application, and through integrations with supported
+                platforms. You can use it to create, edit and share a variety of diagrams
+                    including:<ul id="ul_nd3_1pd_tkc">
+                    <li>Business process diagrams</li>
+                    <li>Flowcharts</li>
+                    <li>Organisation charts</li>
+                    <li>Architectural diagrams and layouts</li>
+                    <li>Unified Modeling Language (UML) diagrams</li>
+                    <li>Entity-Relationship (ER) diagrams</li>
+                    <li>Database schemas</li>
+                    <li>Business Process Model and Notation (BPMN) diagrams</li>
+                    <li>Circuit diagrams</li>
+                </ul></p>
+        </section>
+        <section id="section_zts_wrd_tkc">
+            <title>About This Guide</title>
+            <p>This user guide describes how to use the draw.io (version 32.2.0) in a web browser on
+                desktop and laptop computers. It covers the features and workflows available through
+                a web browser.</p>
+        </section>
+        <section id="section_c52_zrd_tkc">
+            <title>Intended Audience</title>
+            <p>If you are a business analyst, project manager, IT professional, technical writer,
+                student, educator, or anyone with little to no experience creating diagrams, you’re
+                in the right place.</p>
+            <p>This user guide covers the basics of using draw.io to create, edit, format, save, and
+                export diagrams.</p>
+            <p>Follow the step-by-step instructions to get started, or jump to the section you
+                need.</p>
+        </section>
+    </conbody>
+</concept>

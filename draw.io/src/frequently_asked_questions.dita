@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="frequently_asked_questions">
+    <title>Frequently Asked Questions</title>
+    <conbody>
+        <p>This section answers frequently asked questions about using draw.io. It covers common
+            questions about creating, editing, saving, and exporting diagrams.</p>
+        <p>Q. Why isn't the connector connecting to a shape?<ul id="ul_myd_nzl_wkc">
+                <li>This can happen when you are connecting two different shapes. When dragging the
+                    connector endpoint to the target shape, continue dragging until a connection
+                    point on the target shape is highlighted. Move the endpoint to the required
+                    connection point and release the connector. </li>
+            </ul></p>
+        <p>Q. How do I bring an object in front of another object?<ul id="ul_bdc_qzl_wkc">
+                <li>
+                    <p>If two objects overlap and you want to move one in front of the other, select
+                        the object and choose Arrange > To Front.</p>
+                    <p>For more information, see <xref href="arrange_overlapping_objects.dita"
+                        />.</p>
+                </li>
+            </ul></p>
+        <p>Q. Why aren't my objects aligned?</p>
+        <ul id="ul_jxj_h1m_wkc">
+            <li>Select at least two objects before selecting Arrange > Align. Alignment does not
+                work when only one object is selected.<p>For more information, see <xref
+                        href="align_shapes.dita"/>.</p></li>
+        </ul>
+        <p>Q. Why is my exported diagram difficult to read?<ul id="ul_ddm_vbm_wkc">
+                <li>The text or objects in the exported diagram may be difficult to read if the
+                    export settings are not suitable for the diagram. Review the export settings and
+                    adjust them as needed before exporting the diagram again. To learn more, see
+                        <xref href="export_a_diagram.dita"/>.</li>
+            </ul></p>
+    </conbody>
+</concept>

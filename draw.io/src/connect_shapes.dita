@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zv1_qxc_vkc">
+    <title>Connect existing shapes</title>
+    <taskbody>
+        <context>
+            <p>To connect existing shapes: </p>
+            <ol dir="ltr" id="ol_sgy_rqg_vkc">
+                <li>On the canvas, point to one of the shapes that you want to connect. Four blue
+                    directional arrows appear around the shape.</li>
+                <li>Click the arrow that points toward the other shape. </li>
+            </ol>
+        </context>
+        <result id="result_fd2_f3p_xkc"> A connector appears between the two shapes.</result>
+    </taskbody>
+</task>

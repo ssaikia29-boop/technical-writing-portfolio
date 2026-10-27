@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="glossary">
+    <title>Glossary</title>
+    <conbody>
+        <p>
+            <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_rkl_ccm_wkc">
+                <sthead>
+                    <stentry>
+                        <p><b>Term</b></p>
+                    </stentry>
+                    <stentry>
+                        <p><b>Definition</b></p>
+                    </stentry>
+                </sthead>
+                <strow>
+                    <stentry>
+                        <p>Canvas</p>
+                    </stentry>
+                    <stentry>
+                        <p>The area of the draw.io editor where you create and edit diagrams.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Connector</p>
+                    </stentry>
+                    <stentry>
+                        <p>A line or arrow used to connect shapes and show a relationship or flow
+                            between them.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Diagram</p>
+                    </stentry>
+                    <stentry>
+                        <p>A visual representation of information, processes, relationships, or
+                            structures created in draw.io.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Editor</p>
+                    </stentry>
+                    <stentry>
+                        <p>The draw.io workspace where you create and edit diagrams.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Export </p>
+                    </stentry>
+                    <stentry>
+                        <p>The process of creating a copy of a diagram in a different file format
+                            for sharing, publishing, embedding, or use in another application.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Shape</p>
+                    </stentry>
+                    <stentry>
+                        <p>A visual element, such as a rectangle, circle, diamond, or callout, that
+                            can be added to a diagram.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Sizing handle</p>
+                    </stentry>
+                    <stentry>
+                        <p>A control that appears around a selected shape and allows you to resize
+                            the shape.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Template</p>
+                    </stentry>
+                    <stentry>
+                        <p>A predesigned diagram that provides a starting layout for creating a
+                            diagram.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Alignment</p>
+                    </stentry>
+                    <stentry>
+                        <p>The positioning of two or more objects relative to one another.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Arrange</p>
+                    </stentry>
+                    <stentry>
+                        <p>A set of commands used to change the position, alignment, or order of
+                            objects in a diagram.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>XML (.drawio)</p>
+                    </stentry>
+                    <stentry>
+                        <p>The native draw.io file format used to save a diagram so that it can be
+                            edited in draw.io. </p>
+                    </stentry>
+                </strow>
+            </simpletable>
+        </p>
+    </conbody>
+</concept>

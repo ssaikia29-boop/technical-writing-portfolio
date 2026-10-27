@@ -1,0 +1,279 @@
+draw.io web version: v32.2.0
+Introduction
+
+About draw.io
+draw.io (also known as diagrams.net) in a free web-based diagramming tool. You can use it to create, edit and share a variety of diagrams including:
+- Business process diagrams
+- Flowcharts
+- Organisation charts
+- Architectural diagrams and layouts
+- Unified Modeling Language (UML) diagrams
+- Entity-Relationship (ER) diagrams
+- Database schemas
+- Business Process Model and Notation (BPMN) diagrams
+- Circuit diagrams
+
+About This Guide
+This user guide focuses on using the draw.io web application on desktop and laptop computers. It covers the features and workflows available through a web browser.
+
+Mobile device usage is not covered in this guide.
+
+Target Audience
+
+If you are a business analyst, project manager, IT professional, technical writer, student, educator, or anyone with little to no experience creating diagrams—you’re in the right place. This user guide covers the basics of using draw.io to create, edit, format, save, and export diagrams. It also includes draw.io workspace and explains how to work with shapes and connectors to create clear and effective diagrams. Follow the step-by-step instructions to get started, or jump to the section you need.
+Internet Explorer and outdated versions of modern browsers do not support draw.io.
+
+Browser requirements
+
+Use a supported, up-to-date web browser to access draw.io. Internet Explorer 11 is not supported.
+
+Open draw.io
+
+Prequsite
+
+Ensure you have an internet connection and a supported web browser.
+
+
+To get started, open the draw.io in the browser.
+
+>Open a web browser.
+>In the address bar, enter https://app.diagrams.net/.
+>Press Enter.
+
+The draw.io web application opens and displays the Untitled Diagram page with a blank canvas.
+
+You can start creating a diagram directly on the blank canvas or select a template to get started.
+
+Understanding the workspace
+
+The draw.io editor consists of the following areas:
+
+Menu bar: Provides access to file management commands, such as File and Edit, and editor commands, such as View, Arrange, Extras, and Help.
+Toolbar: Provides quick access to commonly used commands, such as Zoom, Undo, Redo, Delete, Fill Color, and Connection.
+Left panel: Provides shapes and other diagram elements that you can add to the canvas, such as circles, squares, diamonds, curves, and callouts.
+Canvas. Provides the workspace where you create and edit diagrams.
+Right panel. Provides options for managing the canvas view and formatting diagram elements, including grid and page settings and shape formatting.
+
+
+Choose a template
+
+Templates are predesigned diagrams that provide a starting layout for different types of diagrams. draw.io provides a variety of templates. You can also select a blank diagram to create a diagram from scratch.
+
+When you select a template, you can add a name for the diagram and select a file format. Avavailable options are  By default, the XML file (Draw.io) format is selected.
+
+To select a template:
+1. On the Untitled diagram page, click File in the upper-left corner.
+2. Select New.
+3. In the dialog box, do one of the following:
+> To create a diagram from scratch, click Blank Diagram.
+> To use a template, select the required template. For example, select Flowchart.
+4 Next to Diagram Name
+To select a file format:
+Click the XML file (Draw.io) drop-down list.
+Select the required file format.
+Click Create.
+
+The draw.io editor opens. If you entered a diagram name, the name appears in the upper-left corner of the canvas.
+
+Create a diagram
+You can create a diagram directly on the blank canvas or start with a blank diagram or template. For information about using templates, see [Choose a template].
+
+Add shapes:
+To add shapes
+1. In the left panel, expand the required shape category, if necessary.
+2. Select the required shape.
+
+Add text to a shape
+To add a text:
+1. Select the shape.
+2. Enter the required text.
+
+Connect shapes
+
+After adding shapes to the canvas, connect them to show the relationship or flow between them. The shapes are connected by connectors. Connectors attach to shapes and can be used to connect two or more shapes.
+
+You can connect shapes that are already on the canvas or connect a new shape. You can also use the directional arrows that appear when you hover.
+
+> To connect existing shapes see, connect existing shapes
+> To connect a new shape, see connect a new shape
+
+Connect existing shapes
+
+To connect existing shapes: 
+1. On the canvas, hover over the shape that you want to connect.
+2. Select the connector arrow that points toward the shape you want to connect.
+3. Drag the connector to the target shape.
+The shapes are connected by a connector.
+
+
+Connect a new shape
+
+To add and connect a new shape:
+1. On the canvas, hover over the shape to which you want to add a new shape.
+2. Hover over the arrow in the required direction.
+3. Select the required shape from the available shapes.
+
+Move a shape
+To move a shape:
+> On the canvas, select and drag the required shape to the desired location.
+
+Resize a shape
+
+To resize a shape:
+On the canvas, select the required shape.
+Drag a sizing handle outward to enlarge the shape or inward to reduce the shape.
+
+Format a shape
+
+You can format shapes to change their appearance and make the diagram easier to read.
+
+To format a shape:
+1. Select the required shape.
+2. In the right panel, select the Style tab.
+3. Change the shape's fill color, line color, or line style as required.
+4. Select the Text tab to change the font, text size, alignment, or text color.
+5. Select the Arrange tab to change the shape's position, size, or rotation.
+6. Repeat these steps for other shapes as needed.
+
+Working with Your Diagram
+
+After you've created a shape or diagram, you can format the diagram as you like. You can remove shapes and connectors, duplicate them and perform a number of operation that'll let you enhance the diagram.
+See the following to learn:
+
+> Remove shapes
+After you've created a diagram, you may need to remove shapes or connectors to get the desired result.
+To remove a shape:
+1. On the draw.io editor, in the canvas, click the reqired shape or connector.
+2. On the toolbar bar, click the Delete (Delete) icon.
+
+
+> Duplicating objects
+Diacating objects in the canvas helps recreating existing shapes as they are, in the same dimensions.
+To duplicate an onject:
+1. On the draw.io editor, in the canvas, click the reqired shape or connectors.
+2.Press Ctrl+D (Windows) or Cmd+D (macOS).
+A duplicate shape or connector is created on top of the existing shape or connector or just beside it. Select the shape and move it with cursor to view the shaped required.
+
+> Aligning objects
+Alignment is used to line up two or more selected objects relative to one another. You can align objects by their left, right, top, or bottom edges, or by their center.
+
+The alignment options are:
+
+Left Align: Aligns the selected objects with the left edge of the leftmost selected object.
+Right: Aligns the selected objects with the right edge of the rightmost selected object.
+Top: Aligns the selected objects with the top edge of the uppermost selected object.
+Bottom: Aligns the selected objects with the bottom edge of the lowest selected object.
+Center: Aligns the selected objects with the horizontal center of the selected object.
+Middle: Aligns the selected objects with the vertical center of the selected object.
+
+To align objects:
+On the canvas, select two or more objects.
+On the menu bar, select Arrange.
+From the submenu, select the required alignment option.
+
+> Arrange overlapping objects
+When objects overlap, you can change their order to control which objects appear in front of or behind other objects. 
+The arrangement options are
+
+To Front: Moves the selected object to the front of all other objects.
+To Back: Moves the selected object to the back of all other objects.
+Bring Forward: Moves the selected object one level forward in the stacking order.
+Send Backward: Moves the selected object one level backward in the stacking order.
+
+To arrange opjects:
+On the canvas, select the required object.
+On the menu bar, click Arrange.
+From the submenu, select one of the following options:
+
+To Front
+To Back
+Bring Forward
+Send Backward
+
+
+
+Save a diagram
+
+You can save a diagram at any point while creating it. When you save a diagram, draw.io stores it in the selected location.
+
+You can save a diagram using Save or Save As.
+
+Save: Use Save to save changes to a diagram that has already been saved.
+
+Save as: Use Save As to save a new diagram or save an existing diagram with a different name, location.
+
+When you save a diagram, you can select a storage location, such as a supported online storage service or your local computer.
+
+For diagrams saved as files, The XML (.drawio) format is selected by default when saving a diagram as a draw.io file. If you want to continue making editing the diagram, save in this format.
+
+To save changes to an existing diagram:
+1. On the draw.io editor, select File.
+2. Select Save.
+
+To save a new diagram or save an existing diagram with a different name or location:
+1. On the draw.io editor, select File.
+2. Select Save As.
+3. In the dialog box, enter the file name.
+4. Select the required file format.
+5. Select the required storage location.
+6. Select Save.
+
+Export a file
+When you export a file in draw.io, it is saved as a non-editable format. You can use this format when you want to share, publish, embed, or use the diagram elsewhere.
+
+To export a file:
+1. On the draw.io editor, click File.
+2.
+3. From the submenu, select the required format.
+4. In the dialog box, enter the required information.
+5. Clcik Export.
+
+
+FAQ
+Q. Why isn't the connector connecting to a shape?
+
+This can happen when you are connecting two different shapes. When dragging the connector endpoint to the target shape, continue dragging until a connection point on the target shape is highlighted. Move the endpoint to the required connection point and release the connector. 
+
+> How do I bring an object in front of another object?
+
+If two objects overlap and you want to move one in front of the other, select the object and choose Arrange > To Front.
+
+For more information, see Arrange overlapping objects.
+
+> Why aren't my objects aligned?
+Select at least two objects before selecting Arrange > Align. Alignment does not work when only one object is selected.
+
+For more information, see Aligning objects
+
+> Why is my exported diagram difficult to read?
+
+The text or objects in the exported diagram may be difficult to read if the export settings are not suitable for the diagram. Review the export settings and adjust them as needed before exporting the diagram again. To learn more, see Export a file.
+A small reference table
+Glossary
+Glossary
+Term	Definition
+Canvas	The area of the draw.io editor where you create and edit diagrams.
+Connector	A line or arrow used to connect shapes and show a relationship or flow between them.
+Diagram	A visual representation of information, processes, relationships, or structures created in draw.io.
+Editor	The draw.io workspace where you create and edit diagrams.
+Export	The process of creating a copy of a diagram in a different file format for sharing, publishing, embedding, or use in another application.
+Shape	A visual element, such as a rectangle, circle, diamond, or callout, that can be added to a diagram.
+Sizing handle	A control that appears around a selected shape and allows you to resize the shape.
+Template	A predesigned diagram that provides a starting layout for creating a diagram.
+Alignment	The positioning of two or more objects relative to one another.
+Arrange	A set of commands used to change the position, alignment, or order of objects in a diagram.
+
+XML (.drawio)	The native draw.io file format used to save a diagram so that it can be edited in draw.io.
+
+ 
+
+
+
+
+
+
+
+
+
+
+

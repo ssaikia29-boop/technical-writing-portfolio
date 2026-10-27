@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tml_ftc_vkc">
+    <title>Add text to shapes and connectors</title>
+    <taskbody>
+        <context>
+            <p> You can add text to shapes and connectors to identify categories, segments, systems,
+                the flow of information, or other elements in a diagram. </p>
+            <p>To add text to shapes and connectors: </p>
+            <ol id="ol_ygq_s5c_vkc">
+                <li>On the canvas, click the shape or connector to which you want to add text.</li>
+                <li>Enter the text.</li>
+            </ol>
+        </context>
+    </taskbody>
+</task>

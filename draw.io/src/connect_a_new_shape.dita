@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="connect_a_new_shape">
+    <title>Connect a new shape</title>
+    <taskbody>
+        <context>
+            <p>To add and connect a new shape:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the canvas, hover over the shape to which you want to add a new shape.</cmd>
+            </step>
+            <step>
+                <cmd>Hover over the arrow in the direction in which you want to add the new
+                    shape.</cmd>
+            </step>
+            <step>
+                <cmd>Select the required shape from the available options.</cmd>
+            </step>
+        </steps>
+        <result id="result_zgx_13p_xkc">
+            <p>The new shape is added to the canvas and connected to the selected shape.</p>
+        </result>
+    </taskbody>
+</task>
