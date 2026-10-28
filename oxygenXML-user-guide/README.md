@@ -4,13 +4,13 @@ This repository contains a user guide for draw.io (v32.2.0), a diagramming tool 
 The guide is designed for beginners and covers essential tasks involved in creating, formatting, managing, saving, and exporting diagrams using the draw.io web application.
 The documentation focuses on the web version of draw.io on desktop and laptop computers. Mobile device usage is outside the scope of this guide.
 
-**Tools and Technologies**
+**Tools and technologies**
 
 - Oxygen XML Author: Authoring and editing structured documentation.
 - DITA XML: Creating modular, topic-based documentation.
 - GitHub: Hosting the documentation source files and showcasing the project.
 
-**DITA Elements**
+**DITA elements**
 
 This project demonstrates the use of the following DITA structures and elements in Oxygen XML Author:
 - Maps: Organizing topics into a logical documentation structure.
@@ -21,7 +21,7 @@ This project demonstrates the use of the following DITA structures and elements 
 - Unordered lists: Presenting related items without a required sequence.
 - Cross-references (xref): Linking to other documentation topics and external web pages.
 
-**Repository Contents**
+**Repository contents**
 
 The repository contains the DITA source files used to create and organize the user guide, including:
 - DITA maps for organizing the documentation.

@@ -1,14 +1,14 @@
-## Readme for TaskFlow User Guide    
+## Readme for TaskFlow user guide    
 
 This repository contains a user guide for TaskFlow, a fictional project management application used to demonstrate Markdown authoring and formatting skills. The guide is designed for beginners and covers essential tasks involved in creating projects, assigning tasks, setting priorities, tracking progress, and managing team members. The documentation serves as a sample of user-facing technical content formatted using Markdown.
 
-**Tools and Technologies**
+**Tools and technologies**
 
 - Visual Studio Code (VS Code): Creating, editing, and previewing the Markdown documentation.
 - Markdown: Structuring and formatting the user guide.
 - GitHub: Hosting the documentation source file and showcasing the project.
 
-Markdown Elements
+**Markdown elements**
 
 This project demonstrates the use of the following Markdown syntax and formatting features in Visual Studio Code:
 - Heading levels: Organizing content into sections and subsections.
@@ -25,7 +25,7 @@ This project demonstrates the use of the following Markdown syntax and formattin
 - Reference-style links: Defining link destinations separately from the link text.
 - Code blocks: Displaying examples of Markdown syntax or other text, where applicable.
 
-**Repository Contents**
+**Repository contents**
 
 The repository contains the Markdown source file used to create the user guide, including:
 - taskflow-user-guide.md: The main user guide containing instructions and examples of Markdown formatting.
